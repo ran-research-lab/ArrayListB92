@@ -1,7 +1,20 @@
 # ArrayList Class - List ADT implemented with dynamic array
 
 
-You are given an implementation of the integer list ADT using dynamic array and a client. S
+
+**NOTE**: in order to get this project to compile, go to the file `CMakeLists.txt` and change the line: 
+
+```
+include_directories(/home/rarce/Dropbox/ccom3034-b92)
+```
+
+to the directory where `catch.hpp` resides in your computer.
+
+----
+
+
+
+You are given an implementation of the integer list ADT using dynamic array and a client. 
 
 Your task is to complete the implementation of the following member functions for the `ArrayList` class:
 
